@@ -1,8 +1,19 @@
 
 1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+Ans: JavaScript is used to interactive web pages. It can also used to create applications and games.
 2. What is the difference between client-side and server-side?
+Ans: client side means any execution/activity on user side with any processing on the server
+     client side languages: HTML, css, JS
+     server side means execution/activity takes place on a web server.
+     backend languages: PHP, python, sql
 3. What is Nodejs?
+Ans: Node JS is the engine/environmnet which process and run Java script 
 4. Explain Scope in JavaScript
+Ans: Scope is defined in Javascript for a each function and availabilty of variables will be based on scope. 
 5. JavaScript is asynchronous or synchronous.
+Ans: JavaScript is synchronous as it executed one step at a time.
 6. JavaScript is Single-threaded or Multi-threaded.
+Ans: JavaScript is Single-threaded. 
 7. Explain DOM in your own word.
+Ans: DOM(Document Object Model) is a interface for web documents. It is independt of any language.When any web page is loaded it create a DOM object of that page
+     and it will access different style/ event from that object and process accordingly.
